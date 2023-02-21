@@ -23,7 +23,7 @@ Some ideas for prompts
 ### Easy
 
 * Illuminate!
-* Remind me to call about the 
+* Remind me to call the vet tomorrow
 * Tell Siri that I want a refund
 
 ### Harder
